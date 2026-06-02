@@ -6,5 +6,11 @@
   "transformer": {
     "mu": 4.327834748371698,
     "sigma": 2.392484666393898
+  },
+  "generator": {
+    "global_max_minutes": 49487.0,
+    "alpha_base": 63.96138626607986,
+    "alpha_stress": 31.98069313303993,
+    "alpha_extreme": 15.990346566519966
   }
 }
